@@ -22,14 +22,13 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "First Time Setup",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "reference/config",
+              "reference/commands",
+              "reference/permissions",
+              "reference/webhooks",
+              "reference/webhooks"
             ]
           }
         ]
