@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Intro to the ERM Discord Bot",
         "groups": [
           {
             "group": "Get Started",
@@ -34,7 +34,7 @@
         ]
       },
       {
-        "tab": "test123",
+        "tab": "Intro to the ERM Web Panel",
         "groups": [
           {
             "group": "Get Started",
@@ -57,7 +57,7 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "All ERM Features",
         "groups": [
           {
             "group": "API Documentation",
