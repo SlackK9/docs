@@ -34,6 +34,29 @@
         ]
       },
       {
+        "tab": "test123",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introductionerm",
+              "ermcorebot",
+              "ermpanel"
+            ]
+          },
+          {
+            "group": "First Time Setup",
+            "pages": [
+              "reference/config",
+              "reference/commands",
+              "reference/permissions",
+              "reference/webhooks",
+              "reference/webhooks"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "API Reference",
         "groups": [
           {
