@@ -57,18 +57,18 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "ERM Documentation",
+          "href": "https://ermdocumentation.mintlify.app/",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "href": "https://discord.gg/s2DDJy2huf",
+          "icon": "discord"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "ERM Web Panel",
+          "href": "https://ermbot.xyz/",
           "icon": "newspaper"
         }
       ]
